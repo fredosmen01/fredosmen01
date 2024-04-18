@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fredosmen01
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Developement 
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m currently learning Data Analysis @Datacamp
+- 💞️ I’m looking to collaborate on Data analytics projectsp
 - 📫 How to reach me facebook.com/fredosmen01
 
 <!---
